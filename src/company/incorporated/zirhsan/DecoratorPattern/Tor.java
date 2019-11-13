@@ -1,7 +1,13 @@
 package company.incorporated.zirhsan.DecoratorPattern;
 
+/**
+ * This is a main component Ora extends Component.
+ */
 public class Tor extends Component
 {
+    /**
+     * Creates an Tor component with its own parameters.
+     */
     public Tor()
     {
         _componentName = Suit.Tor;
